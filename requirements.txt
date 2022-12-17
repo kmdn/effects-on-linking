@@ -1,0 +1,10 @@
+gensim
+ijson
+nltk
+networkx
+pandas
+matplotlib
+SPARQLWrapper
+rdflib
+tensorflow_gpu
+spacy

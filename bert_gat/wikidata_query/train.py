@@ -1,0 +1,1 @@
+../../bert_gcn/wikidata_query/train.py
